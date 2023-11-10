@@ -282,7 +282,7 @@ console.dir(allTrackStore)
               </S.PlayerControlsBtnNext>
 
               <S.PlayerControlsBtnRepeat onClick={toggleLoop}>
-                <S.PlayerBtnSvg
+                <S.PlayerBtnSvg 
                   $width="18px"
                   $height="12px"
                   $fill="transparent"
